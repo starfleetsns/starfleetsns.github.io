@@ -6,7 +6,7 @@ title:               'Starfleet Web'
 tagline:             'Tricks & Tips & Tweaks'
 description:         'Alcuni utili trucchetti per far funzionare le cose informatiche al timpano e dintorni'
 url:                 'http://starfleetsns.github.io'
-baseurl:             ''
+baseurl:             'pages'
 
 # About/contact
 author:
