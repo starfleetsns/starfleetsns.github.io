@@ -2,16 +2,16 @@
 permalink:           pretty
 
 # Setup
-title:               'Timpano'
-tagline:             'Mas que un collegio'
-description:         'Sito del Timpano'
-url:                 'http://bianchis.starfleet.sns.it'
+title:               'Starfleet Web'
+tagline:             'Tricks & Tips & Tweaks'
+description:         'Alcuni utili trucchetti per far funzionare le cose informatiche al timpano e dintorni'
+url:                 'http://starfleetsns.github.io'
 baseurl:             ''
 
 # About/contact
 author:
-  name:              Dario Balboni
-  email:             dario.balboni@sns.it
+  name:              Starfleet crew
+  email:             admin@starfleet.sns.it
 
 # Default styles
 defaults:

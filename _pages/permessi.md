@@ -1,9 +1,9 @@
-PROBLEMA
+# PROBLEMA
 
 "Impossibile aprire [..] di *nome_utente*: permessi non sufficienti." 
 Solitamente si manifesta aprendo nautilus (quello per navigare tra le cartelle).
 
-SOLUZIONE
+# SOLUZIONE
 
 Aprire un terminale (non terminator) e digitare:
 
